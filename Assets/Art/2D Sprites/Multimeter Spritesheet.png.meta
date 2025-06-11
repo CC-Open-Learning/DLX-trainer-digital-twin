@@ -1,0 +1,3083 @@
+fileFormatVersion: 2
+guid: cd9fe049c80f148488d3b1dccc08a1d1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1888
+        width: 113
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4271d8771603e41b660bd440e83d70
+      internalID: 1126834586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1887
+        width: 54
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8fa59f06f760f4d863e45f5acf9cf7
+      internalID: -1694049336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1888
+        width: 92
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e577c65698c008f4abd83952288e6b8f
+      internalID: -1970332697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1924
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab657011260bede4aa7c96a2977cd4dd
+      internalID: 505230667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1924
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017c383cc38d1ec47bbf1249bbf089cf
+      internalID: 725836020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1925
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e5f465c6856094c99af1d6d5e85039
+      internalID: -1703143445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1925
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec78f9c3e376baa42996e17df821848c
+      internalID: 1578243197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1915
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f373bac741bb7f24eb33aa1039358d76
+      internalID: -1765137774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 1915
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6d353c131ec7b4f9176704827efbbc
+      internalID: 1052098434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 1915
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596325fadaf8557479edb961d20fc868
+      internalID: 1356757234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 1868
+        width: 181
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b687c65aa3ebfa54d9dab12f47ac49e8
+      internalID: -206036440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 1868
+        width: 181
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4cf26d51bb79a3468f173b8ec9863dd
+      internalID: 175284648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1851
+        width: 243
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbc09f1228acd84a971e09bbf00a016
+      internalID: 1351005329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 1851
+        width: 218
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179cdad1be9e3774b831716f0aadf7ea
+      internalID: 1267688561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1505
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e06ae6b5149721419dba9544da207db
+      internalID: 1225757729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1505
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad45b882165520e4c838df92a958d586
+      internalID: 2052562949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1505
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3835c2f2ec5de459939f8c6605c33f
+      internalID: 146900631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1530
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1c94b0deceb2c4aa2fc198da3ce350
+      internalID: 607651028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1537
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112324bd790500045a829d45728ea3f0
+      internalID: -1572339940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1529
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b34105ae4acab84b8094d356421c569
+      internalID: 1737049401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1537
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768c1c014e740be42a661d6c99ea6299
+      internalID: 870271012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1529
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a426a4a97f91bfa4d8acc2a26ac5aa04
+      internalID: 1689207850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1529
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b796bcd44d92dd045beb98eeb7144b2e
+      internalID: 899408361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1500
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f469a18f12e1749afb33666a2f34fc
+      internalID: 1951260996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1500
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcfb4d2eca397f4e9e629f3b17a2b62
+      internalID: -759812398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1499
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a259f5fd27cc24d8e821ce57a2f3cf
+      internalID: 71328538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1499
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a4da4ed8b96f74d9d5229f425a92f4
+      internalID: -1099121163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1500
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f729112dedba043aa8691119689ed9
+      internalID: -1594329281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 1500
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f1a276fef193241a8fc04c382057ef
+      internalID: 426883698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1501
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170c269e5c83a994394b6fe5f838c994
+      internalID: -707958912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 1500
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff017076a1d6f5c439e6739b07a05281
+      internalID: -1270470402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1500
+        width: 8
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70de3d9e9160de74d884a65dd7d8a183
+      internalID: -2097907050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 1500
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9acba8e419395e42aa64dc37580f3e8
+      internalID: -1996174114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 1501
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590d985c2711b0e438499300bfbabd1a
+      internalID: -1463347505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 1500
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0ac2b8f5f5ca24aab497bc30f846b0
+      internalID: -2132061682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1501
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5389417cd680f5459e210b08db1f341
+      internalID: -336512929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 1500
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f5b58ace96cc144a815de39b31a18c
+      internalID: 1952794099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 1490
+        width: 132
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e69e529d579ad0448a75ecf751eed37
+      internalID: 1847052580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 1471
+        width: 13
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0a17bb9de944949adef272e79bc268
+      internalID: -1531372816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 1490
+        width: 132
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a192ce48ea514c0458952da32c238045
+      internalID: -1044484361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1487
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ffbcf85e68f2c4088aff66605f61ed
+      internalID: -1596424278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1487
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167fb139dbf892b448d9e3271fbf99b8
+      internalID: 1762204661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1487
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f929310576e25409558bee67afb95f
+      internalID: -875753059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1478
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21f94a92fecd4d48b78b619e3fbfcb0
+      internalID: -1144785613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1124
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b493cc009c4887428f6b21fb1fb56c5
+      internalID: -478046188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1124
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cd6cdc6df39f242ba8cbf54dbd25b9
+      internalID: 201369148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1124
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5fafeedd3282741812789a716b0910
+      internalID: -1923226232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1111
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290e5515f6580924abaa9ecf82a3f9d3
+      internalID: -1912726377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1111
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd790d9a34e2d9d4186a03a5f40a217e
+      internalID: 2139828056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1111
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a1770323aa6c7459ea01e61fc39d43
+      internalID: -1543846474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1111
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35cb671c6995084d853708a4c28f503
+      internalID: 1064032258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1111
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc571aa4391b9a47bd0a6538d463543
+      internalID: 1579774209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1111
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9cd46dcc1ea2a48a4e7786a2b690bd
+      internalID: -2135986904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1111
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8da2a8c0d2169e4a9222afea9552221
+      internalID: 1809165374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1116
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2330fcd0ad65440b0da5ba2e8c1b25
+      internalID: -2022734597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 1116
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c9051e23e0143489dd2bac50e1d5ee
+      internalID: 1341289061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 1116
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833977d0f39f3b342acfab6477008b8b
+      internalID: 858123058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 1116
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab95b6755b0f62e46885e012ed0a279a
+      internalID: -1022802649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 1088
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e3d74e9cf956047b2259f12f7a9e8c
+      internalID: 873567013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 1088
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4591d0bc1e8f1e745bd54fc82478361e
+      internalID: 263528966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 1088
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8949aef64fb5f4e4d9e19b4b600cff79
+      internalID: 375652299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1088
+        width: 11
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59418775fc058c4ca7c0227b3269fd8
+      internalID: -1888054835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1088
+        width: 11
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18af47de3b8f0ae438d18381ca441834
+      internalID: 1662629581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 1088
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58fa8aa2837efb43b519c02cf8662af
+      internalID: -1804772741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1088
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30deef5fb1449f4d8127136cfd65500
+      internalID: 1765608609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1088
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a61ed26594824e448482f76ac854049
+      internalID: 962904604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 1088
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c87e370a13fe9b4287fbda3185dc107
+      internalID: 1423300827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 1073
+        width: 52
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e491a2ce43b62b549b8a8d850875b02a
+      internalID: 203752455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 1073
+        width: 52
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0416982a36b2a7b4a977e555b24e19d8
+      internalID: -1553886062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1085
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bdcb99c7fa9af4d81bb60d480656c7
+      internalID: -860874113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1085
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ed654ff5c91924a80f701eb822e224
+      internalID: 1488668258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1085
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8fe0e0f4eedda4d9784edf3b9d2507
+      internalID: -1438839422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1073
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9ab237cc98c584b8314163442f451a
+      internalID: -368169750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1073
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1803eff9a8d0141b2f36883f106c03
+      internalID: 1503295013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1073
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ea32a8805014b4891adbaefb340fb8
+      internalID: 1881224863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1073
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ac527f1957ea64eace098f0651999c
+      internalID: -550432657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1073
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd65bd3af73cabe4f96cfaaef777f4e5
+      internalID: 1927072631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1073
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b725c5ca9951cdc42b83305a1642dfe7
+      internalID: -1197172275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1073
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d636694e6d6994fbc624b83e8e44ef
+      internalID: -1506105735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1073
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5d9b38f09fcd24795603474ac99b82
+      internalID: -2105308179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 1068
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03bc027d7d1e39449582b3a733e919c
+      internalID: 105204236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1068
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d646e5b1b290b54c97aa3777065432e
+      internalID: 1503996465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 1068
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9748d1b7d4c57f48bce216980b55c59
+      internalID: 1803430558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 1088
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecae55c324c401499d2dab2a94877f6
+      internalID: -99790559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1047
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf8d9a52cb4c204390f697780e8e4fd
+      internalID: 917570687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1047
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2682a6d1976d37a46bbafcd3163ec535
+      internalID: 828697788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 1077
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe08859a3a93cc4a823429c83d5ca75
+      internalID: -1813197531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1047
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d95a264fc21fb14ab7cd9f37364cedd
+      internalID: -1326343705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1047
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6eec929e1bed5645b9a688a27068828
+      internalID: 284935412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1047
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0946f54a52c3d3b4dbba4a8fd6478a71
+      internalID: 920831793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 1067
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fbca23fbb20024581a8b332338fbf6
+      internalID: -1459076354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1008
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9537e16f25c25ec47adcdc232340618e
+      internalID: -1325683730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1008
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080263c45b1bdb345a0c6648eb70a75c
+      internalID: 908638522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1008
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1474b34a09c1b74d99c65bad693e85d
+      internalID: -1114689617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 969
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97de0a5d8ce4b344ebfaea27dd220cff
+      internalID: 896199958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 969
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ab1bf33ad34a9409e6cdb8a4aa9b5a
+      internalID: 936064256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 969
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95ec3f5e89a1da42a8e9a620fa7f382
+      internalID: -2087684413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 969
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dadf049fa0be2044e8563a9526a896ea
+      internalID: 1216393399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 957
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f7cc1b5b7eb5d4b8daa6e6805a8e40
+      internalID: 936819614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 931
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d065478325c05814a8a5e03dce74200a
+      internalID: 1413218269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 931
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbcf6421a423694f9696955f5544f5d
+      internalID: 1432589220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 931
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123c155c16066274987e4373ac7cc67d
+      internalID: -387742693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 931
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1584b1f441c682740ba6997c0b277999
+      internalID: -2127967695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 931
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf261f79e54ec2343a1b7c4ce94a1d30
+      internalID: 744101864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 892
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7022a19f425e63499ce758d9fda74b3
+      internalID: -385602526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 892
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3375b03fe92243743a3d2af25d71cd4e
+      internalID: -1880553205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 892
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c060669b7b12e046b11bb0a29209874
+      internalID: 1408483751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 892
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c72ec6492f6ee48b2782f73d0302bf
+      internalID: -1380348855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_108
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 892
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ac2907783bc044f8c676e148c96fa2
+      internalID: 346260011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_109
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 892
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b608fbcd9d9d9894ebaf05b0959bddc2
+      internalID: -196831143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_110
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 892
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bc5248ad8e9374fa4f61e735a0adf8
+      internalID: -1581095695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_111
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 350
+        width: 327
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2620dfc1ac2b79f49888cec0831b5b7b
+      internalID: 616928797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_112
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 716
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f2d947cea730947890bda42ed37112
+      internalID: -270125222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_113
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 716
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb4968af9a333340b80205c26df8013
+      internalID: 887882976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_114
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 716
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6149743d38e2ed14ebca281986d04cf7
+      internalID: -841174285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_115
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 609
+        width: 215
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bcd51c2190f62d44a6d23d7211c8ec4
+      internalID: 2037217386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_116
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 539
+        width: 129
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb2263654ad42a4fbc99ad56d72b1bc
+      internalID: 169592254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_117
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 456
+        width: 115
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93cb5cb447976b4982de5f09c4c80ff
+      internalID: 1661744994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_118
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 32
+        width: 431
+        height: 327
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364765a391f808e45b15bee3ced37aee
+      internalID: 1325897339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_119
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 77
+        width: 200
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8657238100bcf4343bf500f29d43378d
+      internalID: -76321786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_120
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 244
+        width: 118
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a6789830e3e5f45a0ec62db2e34059
+      internalID: -222205504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_121
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 37
+        width: 121
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03faf8b1577fb1745bf2bd2ab99a3f31
+      internalID: -1970644865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_122
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 22
+        width: 761
+        height: 757
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c68d598f69eba47b835474a596cdcd
+      internalID: -455621223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_123
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 1498
+        width: 519
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27978c1d9f2e4234b95c060000bd820d
+      internalID: 114194204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_124
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1888
+        width: 217
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5543d4a9f08f744b1e768729b8f085
+      internalID: -994055303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_125
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1914
+        width: 167
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee250ea7182f1e4e82505967b72611b
+      internalID: 392361562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_126
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 1070
+        width: 136
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ded75fb6ad68a54898b230ee5355d93
+      internalID: -189427543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_127
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1065
+        width: 69
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827e5192aff617c44bd3d381060e2fa5
+      internalID: -661589626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_128
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1471
+        width: 364
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f4e6301bff9b04f8250c7155736ea2
+      internalID: -1627667551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_129
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1077
+        width: 174
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef8126d33c2ce94a8b8a4907fda5f30
+      internalID: -1236544863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_130
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 871
+        width: 174
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f37630dab859f4ababbbf47e3255e1
+      internalID: 1210386625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_131
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1110
+        width: 160
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef49f90b37feca648a58aacf06911d32
+      internalID: 442280837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_132
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1117
+        width: 141
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8026d8cdca93b82428e4961a32c4b1d2
+      internalID: -1326498083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter Spritesheet_133
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1467
+        width: 201
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98158be573899584cb8e8d76f514ef55
+      internalID: 437803761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Multimeter Spritesheet_0: 1126834586
+      Multimeter Spritesheet_1: -1694049336
+      Multimeter Spritesheet_10: -206036440
+      Multimeter Spritesheet_100: 1432589220
+      Multimeter Spritesheet_101: -387742693
+      Multimeter Spritesheet_102: -2127967695
+      Multimeter Spritesheet_103: 744101864
+      Multimeter Spritesheet_104: -385602526
+      Multimeter Spritesheet_105: -1880553205
+      Multimeter Spritesheet_106: 1408483751
+      Multimeter Spritesheet_107: -1380348855
+      Multimeter Spritesheet_108: 346260011
+      Multimeter Spritesheet_109: -196831143
+      Multimeter Spritesheet_11: 175284648
+      Multimeter Spritesheet_110: -1581095695
+      Multimeter Spritesheet_111: 616928797
+      Multimeter Spritesheet_112: -270125222
+      Multimeter Spritesheet_113: 887882976
+      Multimeter Spritesheet_114: -841174285
+      Multimeter Spritesheet_115: 2037217386
+      Multimeter Spritesheet_116: 169592254
+      Multimeter Spritesheet_117: 1661744994
+      Multimeter Spritesheet_118: 1325897339
+      Multimeter Spritesheet_119: -76321786
+      Multimeter Spritesheet_12: 1351005329
+      Multimeter Spritesheet_120: -222205504
+      Multimeter Spritesheet_121: -1970644865
+      Multimeter Spritesheet_122: 1154865986
+      Multimeter Spritesheet_123: -455621223
+      Multimeter Spritesheet_124: 114194204
+      Multimeter Spritesheet_125: -994055303
+      Multimeter Spritesheet_126: 392361562
+      Multimeter Spritesheet_127: -189427543
+      Multimeter Spritesheet_128: -1627667551
+      Multimeter Spritesheet_129: -1236544863
+      Multimeter Spritesheet_13: 1267688561
+      Multimeter Spritesheet_130: 1210386625
+      Multimeter Spritesheet_131: 442280837
+      Multimeter Spritesheet_132: -1326498083
+      Multimeter Spritesheet_133: 437803761
+      Multimeter Spritesheet_14: 1225757729
+      Multimeter Spritesheet_15: 2052562949
+      Multimeter Spritesheet_16: 146900631
+      Multimeter Spritesheet_17: 607651028
+      Multimeter Spritesheet_18: -1572339940
+      Multimeter Spritesheet_19: 1737049401
+      Multimeter Spritesheet_2: -1970332697
+      Multimeter Spritesheet_20: 870271012
+      Multimeter Spritesheet_21: 1689207850
+      Multimeter Spritesheet_22: 899408361
+      Multimeter Spritesheet_23: 1951260996
+      Multimeter Spritesheet_24: -759812398
+      Multimeter Spritesheet_25: 71328538
+      Multimeter Spritesheet_26: -1099121163
+      Multimeter Spritesheet_27: -1594329281
+      Multimeter Spritesheet_28: 426883698
+      Multimeter Spritesheet_29: -707958912
+      Multimeter Spritesheet_3: 505230667
+      Multimeter Spritesheet_30: -1270470402
+      Multimeter Spritesheet_31: -2097907050
+      Multimeter Spritesheet_32: -1996174114
+      Multimeter Spritesheet_33: -1463347505
+      Multimeter Spritesheet_34: -2132061682
+      Multimeter Spritesheet_35: -336512929
+      Multimeter Spritesheet_36: 1952794099
+      Multimeter Spritesheet_37: 1847052580
+      Multimeter Spritesheet_38: -1531372816
+      Multimeter Spritesheet_39: -1044484361
+      Multimeter Spritesheet_4: 725836020
+      Multimeter Spritesheet_40: -1596424278
+      Multimeter Spritesheet_41: 1762204661
+      Multimeter Spritesheet_42: -875753059
+      Multimeter Spritesheet_43: -1144785613
+      Multimeter Spritesheet_44: -478046188
+      Multimeter Spritesheet_45: 201369148
+      Multimeter Spritesheet_46: -1923226232
+      Multimeter Spritesheet_47: -1912726377
+      Multimeter Spritesheet_48: 2139828056
+      Multimeter Spritesheet_49: -1543846474
+      Multimeter Spritesheet_5: -1703143445
+      Multimeter Spritesheet_50: 1064032258
+      Multimeter Spritesheet_51: 1579774209
+      Multimeter Spritesheet_52: -2135986904
+      Multimeter Spritesheet_53: 1809165374
+      Multimeter Spritesheet_54: -2022734597
+      Multimeter Spritesheet_55: 1341289061
+      Multimeter Spritesheet_56: 858123058
+      Multimeter Spritesheet_57: -1022802649
+      Multimeter Spritesheet_58: 873567013
+      Multimeter Spritesheet_59: 263528966
+      Multimeter Spritesheet_6: 1578243197
+      Multimeter Spritesheet_60: 375652299
+      Multimeter Spritesheet_61: -1888054835
+      Multimeter Spritesheet_62: 1662629581
+      Multimeter Spritesheet_63: -1804772741
+      Multimeter Spritesheet_64: 1765608609
+      Multimeter Spritesheet_65: 962904604
+      Multimeter Spritesheet_66: 1423300827
+      Multimeter Spritesheet_67: 203752455
+      Multimeter Spritesheet_68: -1553886062
+      Multimeter Spritesheet_69: -860874113
+      Multimeter Spritesheet_7: -1765137774
+      Multimeter Spritesheet_70: 1488668258
+      Multimeter Spritesheet_71: -1438839422
+      Multimeter Spritesheet_72: -368169750
+      Multimeter Spritesheet_73: 1503295013
+      Multimeter Spritesheet_74: 1881224863
+      Multimeter Spritesheet_75: -550432657
+      Multimeter Spritesheet_76: 1927072631
+      Multimeter Spritesheet_77: -1197172275
+      Multimeter Spritesheet_78: -1506105735
+      Multimeter Spritesheet_79: -2105308179
+      Multimeter Spritesheet_8: 1052098434
+      Multimeter Spritesheet_80: 105204236
+      Multimeter Spritesheet_81: 1503996465
+      Multimeter Spritesheet_82: 1803430558
+      Multimeter Spritesheet_83: -99790559
+      Multimeter Spritesheet_84: 917570687
+      Multimeter Spritesheet_85: 828697788
+      Multimeter Spritesheet_86: -1813197531
+      Multimeter Spritesheet_87: -1326343705
+      Multimeter Spritesheet_88: 284935412
+      Multimeter Spritesheet_89: 920831793
+      Multimeter Spritesheet_9: 1356757234
+      Multimeter Spritesheet_90: -1459076354
+      Multimeter Spritesheet_91: -1325683730
+      Multimeter Spritesheet_92: 908638522
+      Multimeter Spritesheet_93: -1114689617
+      Multimeter Spritesheet_94: 896199958
+      Multimeter Spritesheet_95: 936064256
+      Multimeter Spritesheet_96: -2087684413
+      Multimeter Spritesheet_97: 1216393399
+      Multimeter Spritesheet_98: 936819614
+      Multimeter Spritesheet_99: 1413218269
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

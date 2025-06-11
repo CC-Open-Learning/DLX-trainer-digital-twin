@@ -1,0 +1,4843 @@
+fileFormatVersion: 2
+guid: 79971163531429445b7cd9ed8c3b7a05
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Board Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2054
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da431e92db13c334cabf91389cc3a5b7
+      internalID: 1344913121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2102
+        width: 115
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bcb2cf90d55e3e4c83781691accf6fe
+      internalID: 811824416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 2051
+        width: 11
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62350decb297aa428662d2f025c9930
+      internalID: -431111814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 2070
+        width: 62
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a0541150f0fca4db79c28734ced4fc
+      internalID: -1265189341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 2071
+        width: 47
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ffcf33ae2bc6247b86b04b751500f5
+      internalID: -1862405903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 2069
+        width: 56
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02770bd740b1cf841badcb2f76dfd556
+      internalID: 1831556934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 2070
+        width: 61
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48e905787768b94091473ac6b4766b9
+      internalID: -907641131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 2070
+        width: 43
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac72f04cf3121c54a9d6f1363320c11f
+      internalID: 323721428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 2060
+        width: 68
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4245f43bc8f754abe537bc4f90b810
+      internalID: 126285969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 2079
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de23dbc4655fb5146810c3225724fc43
+      internalID: 1578018212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 2080
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520108a43a0247b4284f19983b1809ea
+      internalID: 1968847051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 2085
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5825715059a271d41b955c991241bc57
+      internalID: -91164592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 2085
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01152d0d0c46adc4e9156227eefb45bc
+      internalID: 2093888280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 2085
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecf147fc67b5d049bd5f1306c2d0e54
+      internalID: 1448835393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 2079
+        width: 85
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46f303b2de76c94fa21cff0b7cca117
+      internalID: 1066085316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 2079
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e0833540a1e1946872b9b8cb1d840c
+      internalID: 2112068126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 2079
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3be2478717d7945bc4908225a41405
+      internalID: 2058207883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 2055
+        width: 61
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5019b0de021a1248b976e654debf5d0
+      internalID: 1705464537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1880
+        width: 42
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84749fbee91a14149b5ddadb466fa992
+      internalID: 1696039871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1882
+        width: 52
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70c664add3e3d442a4419fcc13d00e3
+      internalID: -1383120347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1882
+        width: 43
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8619b3abe2a96464db149eb03b5024a9
+      internalID: -1730527420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1882
+        width: 25
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6580731b459f9f24fbf6489494871a5b
+      internalID: 106746576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1882
+        width: 43
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76aaaa84c7959d6498305265f80da9e8
+      internalID: 968814181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1882
+        width: 46
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b477f9a949a79543b88d5a3402d1365
+      internalID: -376312458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1883
+        width: 61
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd65eaaad20be6945a07459e78a39611
+      internalID: -1559753585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1884
+        width: 25
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509f03ad7c38f7943b8b350e73851533
+      internalID: 333976686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 1882
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8711a2ad202e27d499baf731353c9fdf
+      internalID: 1282181020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_27
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1883
+        width: 26
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030da7054c4035d4fb283752d362203d
+      internalID: 39314786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_28
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1854
+        width: 72
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644ff376cac2c1846acab4bbe51b72bf
+      internalID: -383101390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_29
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 1859
+        width: 52
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2567f733818a7354b93e2c4bd85646ae
+      internalID: 1093310160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_30
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 1876
+        width: 46
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86ce6b72fbc6da4fbc6c4781dbd16b6
+      internalID: -1757921378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_31
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 1928
+        width: 71
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bf4427963364a4ba2928dc6880c1c5
+      internalID: 224896750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_32
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 1902
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f11f2535b54c7848916d01b1a1a6728
+      internalID: 1921114954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_33
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 1902
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3df6ef786afb094698715cd1be2d0a8
+      internalID: -601533884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_34
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 1902
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417df1ffb9f7d5b4cb4b8a3aa9f4b980
+      internalID: 1292021881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_35
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1914
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e6c895d0679ef4096fe6e043884c50
+      internalID: -2120539792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_36
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 1906
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6997237aaf2b819429025a71ad248d8b
+      internalID: -1534318828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_37
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 1906
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976b5bf47c2f97549846847307a60683
+      internalID: 1870980647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_38
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 1912
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3e0d9b26f4ac447b6ded16518e60af
+      internalID: 1989224543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_39
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 1890
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4059b328f998d41b12bb9e34f1a33a
+      internalID: 1301761020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_40
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 1866
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea96c849ed885a41ade71a9d57bda0e
+      internalID: 660596630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_41
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 1866
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e35d890e33ce8449d8ea82b8bfd326
+      internalID: -90888619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_42
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 1866
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad289279283169d4db8db672721eceff
+      internalID: -1105882962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_43
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1873
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6427bd3f35fb8104ea8f787c7a0c8694
+      internalID: 1969879564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_44
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1861
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94c1070de6d702488e50763e288266f
+      internalID: -1517609489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_45
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1668
+        width: 43
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ff803226efcd64f90d39853df4cde2
+      internalID: 745847790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_46
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1701
+        width: 126
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cfbeb427600e844aed36d2ee745382
+      internalID: 1480590609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_47
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1687
+        width: 55
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205339cd7febc394ba1a4b6389211f07
+      internalID: 1107285538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_48
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1687
+        width: 25
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05488ef983140541b0ce7f465c4e8c2
+      internalID: -36576629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_49
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1691
+        width: 56
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2792a53dd3ea5a4abd3b405c7819430
+      internalID: -251636532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_50
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1691
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c171dcb83b0bb9346bc46ad6e2459e68
+      internalID: -1755431025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_51
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1694
+        width: 62
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79188c137920d5241b65de51540f3ab9
+      internalID: 230050012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_52
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 1695
+        width: 46
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd32f41bc9087641ae922d92613d4e2
+      internalID: 593065581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_53
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1726
+        width: 115
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1a5cf24e3bbab458850ce7f63569d2
+      internalID: 1910777614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_54
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1667
+        width: 56
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8ddb6e5e041f04cb9ee466a1ccbceb
+      internalID: -1134270798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_55
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 1668
+        width: 56
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90f2f119dbd43043b88b4e9dbbc12f8
+      internalID: -308767651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_56
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 1667
+        width: 43
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03396f726d4178649bc81808f7f25659
+      internalID: -1023263724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_57
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 1692
+        width: 55
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b04af9894239e42a03bd66abfd834d
+      internalID: 237150327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_58
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 1672
+        width: 123
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c7be10f5939864eb368f321d87c4fe
+      internalID: 1730906094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_59
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 1463
+        width: 140
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce5fefe18f48a44193cb0e36432d50a
+      internalID: 576900134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_60
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1591
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc496ec8f5c77f447b9edc693b016924
+      internalID: 223079276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_61
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 1604
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10917b4a39f7abc478fd2e88ed4b49ed
+      internalID: -1597183661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_62
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 1474
+        width: 79
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d0e99824169e648ac87c7e6273725d
+      internalID: 1536416062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_63
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 1604
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f11ce7f2af92546a1d8ad8cfa51e93
+      internalID: 1552603891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_64
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1498
+        width: 43
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e6a59475f523146b40d851890c8a05
+      internalID: 793677011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_65
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1497
+        width: 67
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7e3dc8a174ce342a7d15fad3276631
+      internalID: 1935932245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_66
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1500
+        width: 55
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9edda1bef2984a4d98bc79cc7cb3198
+      internalID: -453996297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_67
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1500
+        width: 11
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc51f427748f7cb4b8eb09938f6d330e
+      internalID: 1983305665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_68
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1495
+        width: 43
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0941c926a675a438f8b6586f5e6618
+      internalID: -1274468941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_69
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1494
+        width: 44
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5090e9cf73c4f774980b36114a946ded
+      internalID: -180915793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_70
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1497
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44817b7c0e2c51e429519b075e574f6f
+      internalID: 1679930107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_71
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1497
+        width: 26
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e1fc9d34d931b4dbf646576280c31f
+      internalID: -55889991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_72
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1477
+        width: 23
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49bb3c74f5abe847b731fcfb208e457
+      internalID: -2085128680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_73
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 1563
+        width: 8
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bbdd14b2da8884ebb44a4fe6e6b30f
+      internalID: -1522846646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_74
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 1538
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004846f817a866d40aadd87923c2c0db
+      internalID: 835918411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_75
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1514
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7524880bac9e04597cc53176ea0c3e
+      internalID: 1973413388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_76
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1514
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07636d88f0fc4e42be72e02af903cfd
+      internalID: -1621123442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_77
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1515
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3439fbc6a84299b4497d80b84888aef6
+      internalID: 1169688573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_78
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1547
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1528737867b7b714d9c708803de7e59c
+      internalID: -1747810919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_79
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 1538
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790afe470a2f71a4080ca5d58dd7b212
+      internalID: 402261915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_80
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 1498
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7044265f67f834c8e781545209596c
+      internalID: -1139815106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_81
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 1476
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e7accd2c8d153409ef9fc6ae9ce63a
+      internalID: -816264917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_82
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 1477
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe4a515c9c8b7a448cf212aa53f31b0
+      internalID: 1066366116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_83
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 1462
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38b38e5fd8bdaa428282b244ec54fdd
+      internalID: 1339318494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_84
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1462
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06e43521551f5947ac135f361fae7f4
+      internalID: 717562405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_85
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1290
+        width: 122
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0929ce5aa470742abd2660d6842f4d
+      internalID: -866077903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_86
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1317
+        width: 49
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6ceddea05b3b74eb850084f5317387
+      internalID: -700558717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_87
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1318
+        width: 46
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8141d444ef126654b9dc4cc1c346e2a2
+      internalID: -1343282899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_88
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1315
+        width: 44
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4685637d0ab7044e90b23606b7d0a7b
+      internalID: 1495347483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_89
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1315
+        width: 49
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a822ca5d4e1ff7d4594e8128508b079c
+      internalID: -1412221830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_90
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1324
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e088bd412ef4e040b34b961e0ddb507
+      internalID: 892186927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_91
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1325
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b77530d97637849b66bf423c96fdb0
+      internalID: 2029738093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_92
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1325
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f981af6a8a18f48ae2b658e2474866
+      internalID: 1628287034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_93
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1297
+        width: 98
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f7849d5d71bac4d99b4e36e0dd274a
+      internalID: -534291264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_94
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1291
+        width: 169
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11004d333221d594ea8773d528d58d1b
+      internalID: 1257943210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_95
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 1310
+        width: 50
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f1c2ec6adf0f9478eeb5ffcf19e88e
+      internalID: 623667080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_96
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 1310
+        width: 46
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9ddb6839e9f224c90d1271db7f0a23
+      internalID: 774457277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_97
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1320
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9666972e04424654fbc653ef552cc01e
+      internalID: 1906854531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_98
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1319
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c235bbc09984242abf3ae8411e3591
+      internalID: -841725379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_99
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 1320
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a527dd8a4796044c8fca1d48d0e4e9d
+      internalID: -22473516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_100
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 1341
+        width: 251
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17148c5949733c8488f320dc2f496fa7
+      internalID: -1702051445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_101
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 1321
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d4d071efe43eb448f4d1a1699f8935
+      internalID: -1152259975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_102
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 1321
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd4b81aadbc70343a68ff73a6e2b086
+      internalID: 1880193044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_103
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 1321
+        width: 41
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8333077c6e9ab4f93352276e01dc0e
+      internalID: 788384982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_104
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1117
+        width: 49
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57dfc402de6ccea4f9ce3a5b8732036d
+      internalID: -1047560145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_105
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1117
+        width: 50
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f5085901d219f4c90a6b4a4f7c8f9b
+      internalID: -858558817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_106
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1120
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6616e230ce8c9044f930df8c927e0030
+      internalID: -1106944984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_107
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1120
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8b2ae833c54fe4fae8fa9d2692cbcd
+      internalID: -1145232273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_108
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1120
+        width: 21
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfe95f19389b874693a2fb326752e11
+      internalID: 1254945328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_109
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1109
+        width: 123
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea3b32e3fbd521459a224ad475ee370
+      internalID: 1499012039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_110
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1095
+        width: 119
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0141a7b5f42605b4783c7f796b5cca1e
+      internalID: -1782024270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_111
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1144
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204ada02d30b64946a5c887dc0fec9c3
+      internalID: -1337421899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_112
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1145
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a85d0eccb2d274a94a50d19e4244e3
+      internalID: -1843800035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_113
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1123
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200360e580951df499a228105e329510
+      internalID: -1412333902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_114
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1123
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a83c5fd441975c4d915343725aa77e4
+      internalID: -649540755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_115
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1123
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50810378d6ec3354aac4e00bf19f14fa
+      internalID: -1158133759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_116
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1124
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1340bf721e5ed6b4d94f05a5dab52b85
+      internalID: 885993744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_117
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1125
+        width: 9
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cc22a234a1d5d42b41fda24f3628a3
+      internalID: -372668514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_118
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1124
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074102e0218abf0419edbc49423a7976
+      internalID: -878171125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_119
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 1131
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49c5bbf461fe9141bdbe879d9b05eb3
+      internalID: -1030211425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_120
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 1132
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f3f3717439ffc45a1fd81b8a962087
+      internalID: 1550779441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_121
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1132
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568b6a6a58179874f987a8ca62ddae6d
+      internalID: -955209367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_122
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 1116
+        width: 60
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b8c0d2a63119d44b55924ebc529a51
+      internalID: 2066358353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_123
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 1114
+        width: 92
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa85b6bd36376284088d602a57c42407
+      internalID: -498721636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_124
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 1099
+        width: 251
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5edbce021b4bcc4aa2a5918ee06dada
+      internalID: 2037208012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_125
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 926
+        width: 34
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f67110a5b5d348409870fb026fe7ab3
+      internalID: -208025241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_126
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 927
+        width: 43
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce6d4dcd6508404895cc70c319ddc7b
+      internalID: -506350527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_127
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 925
+        width: 56
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032a087b1a6f59d4286b043f7c4ef003
+      internalID: -1358321068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_128
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 930
+        width: 46
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2400e0830c69364e97a0bd7580ce5d9
+      internalID: -161882292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_129
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 929
+        width: 49
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac2c62540ab108419b7fa46b2dbf987
+      internalID: 939040294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_130
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 925
+        width: 11
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecde8060b885dce40956a8a8ac3c25c4
+      internalID: 305632127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_131
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 925
+        width: 75
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b6dea3aa6e3de43847eea10d3ad9d7
+      internalID: 615812072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_132
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 930
+        width: 67
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471507cd9f4cd894885a42e8ddc608af
+      internalID: -7787296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_133
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 941
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b2656a064d36149980031df0d07ecf
+      internalID: -352549576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_134
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 941
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dec2188556b71f4c8cc625b44fad801
+      internalID: 905687014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_135
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 941
+        width: 18
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa46c7cdc2ce6c4f8fb1661f3f4548c
+      internalID: 1556321328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_136
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 671
+        width: 49
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b951975f16563d4186b4b9ef4791ea3
+      internalID: 70849949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_137
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 671
+        width: 25
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fb8875be3c39c41853206287e1ff41
+      internalID: -723535119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_138
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 671
+        width: 49
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a223eefdf0b9a84aa137f345a9b82d0
+      internalID: -1671999844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_139
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 671
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8064f5edaec99f64faa19dac8f435352
+      internalID: -1328263223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_140
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 670
+        width: 49
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a434681907f254f88027bae6802e90
+      internalID: -1170330320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_141
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 669
+        width: 45
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efa8e09a77cd1e4f8f5d8b4282c3c18
+      internalID: -741476906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_142
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 673
+        width: 49
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6971e1fa477654c42adc4dd58b04cba4
+      internalID: -1543812360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_143
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 673
+        width: 52
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b290eb27e4df4ba43b6fd843b7189bc5
+      internalID: 1809143997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_144
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 675
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec428c46ef98eae4a875e50770872555
+      internalID: -1738074371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_145
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 674
+        width: 45
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fb0a333da607a48a42ee9836de95dc
+      internalID: 1745828308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_146
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 688
+        width: 246
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf23d16bc536654dbb86e5b47863670
+      internalID: -1933115309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_147
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 676
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e729cddb6d145fd41bb82a9d904f793a
+      internalID: 406113220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_148
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 676
+        width: 24
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3916aa83242d247b022fc73d95f820
+      internalID: 766686701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_149
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 684
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a246752938cc2e4d87643f1981204b8
+      internalID: -1011756633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_150
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 685
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826e6924394c8224593b157c6ef7c4da
+      internalID: 1497298852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_151
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 685
+        width: 18
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4c4fce722dab440b8633d3c94899d9
+      internalID: 1939298693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_152
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 669
+        width: 252
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae67108b74e8c1441a3e68439a716a9b
+      internalID: 1993559785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_153
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 467
+        width: 1123
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70e64bd0f4fd2f488392502ade746c4
+      internalID: 1665965252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_154
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 249
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512bb068702398042a5f124ac41edce3
+      internalID: -1353560256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_155
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 249
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7bced9d4a93ac448946f36230f02c9
+      internalID: -1736795750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_156
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 249
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb73722c6c037c4184ae7213d002148
+      internalID: -1326549715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_157
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 249
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df56f6a2194cef749bd2c2314549b201
+      internalID: -150086007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_158
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 247
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3478dc04faf60ef4ca6911d960541b51
+      internalID: -138733262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_159
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 249
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd42209712b016f4092b50a5ed689230
+      internalID: -835754282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_160
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 249
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b18187f092c0741ac21bd8318a9637
+      internalID: 893279473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_161
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 268
+        width: 82
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27aba74f07597e74aab3cbad41755a6f
+      internalID: -106264084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_162
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 128
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feaf1e9c1197dc641a1c851387e3c421
+      internalID: 143268695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_163
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 257
+        width: 55
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b06965443d72341a3a246541cbcae6
+      internalID: -1661860514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_164
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 256
+        width: 59
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3130aed8c03469340a30ba3191dd77dc
+      internalID: 1170890506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_165
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 256
+        width: 81
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f695e6ff3320e40b6d6744b0d8b7fa
+      internalID: -1101723326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_166
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 253
+        width: 125
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37b3aee74b3cbe41970c8f35093185d
+      internalID: -411645239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_167
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 262
+        width: 70
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f8741194787984a854ed45a6d4d004
+      internalID: 1141929986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_168
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 244
+        width: 122
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd44983f4563f0458cf5d7b8fb657b9
+      internalID: -1430316170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_169
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 246
+        width: 252
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db40219a09713f4cae36abefe75f87e
+      internalID: -1339040204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_170
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 262
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa4e86114bab614da9e94e2da8e7cea
+      internalID: 1616102653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_171
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 256
+        width: 45
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d34f870b5d5a74d8a2a7e462cb7845
+      internalID: -1578394702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_172
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 250
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c45b757e6d8dc4a812456e10976794
+      internalID: 1380670668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_173
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 250
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2500fc6380e9543aaee0377974fe13
+      internalID: -1247592737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_174
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 250
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60ffa30bd522374faa59e42ec45c67b
+      internalID: 717157514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_175
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 244
+        width: 35
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240a3220e9db9de4b89e099643feb293
+      internalID: 1969959111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_176
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 244
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692be6df0b60d4d43b66a9e389d20d48
+      internalID: 15884729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_177
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 83
+        width: 78
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fd9af6a7919a745a5570f921723d97
+      internalID: 1851209415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_178
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 83
+        width: 68
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebc9c66398e2a440973d6fa181a9be2
+      internalID: -435351396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_179
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 83
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b79ac764aae7144a1d400828fbe4c9
+      internalID: -1651468951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_180
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 83
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1646714f28f5146bf64473a1982e8d
+      internalID: 543533673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_181
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 83
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f99b2dd9374ae4687e382f14793ffa
+      internalID: 730374821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_182
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 26
+        width: 110
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103369c5bb728cc43a35d2fde55fc79b
+      internalID: 1055197351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_183
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 26
+        width: 103
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fc72d029f136d439a690f089b357ee
+      internalID: -572004408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_184
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 81
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8402aa29f531daa44a421caa708bea94
+      internalID: 599566948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_185
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 81
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4178d3e71951eb41abc24ceac545b00
+      internalID: 668396715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_186
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 81
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab831be1224988948834ae715034b99e
+      internalID: -157505091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_187
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 81
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bd5bb327dcbc342b66d61f3af9929d
+      internalID: 1889835325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_188
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 81
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94f98cf5e270c74e917aa487a3d3ede
+      internalID: -1338036746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_189
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 81
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70b10765710ab140a3907e2bf70712e
+      internalID: -322472304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_190
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 81
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4218ba86d32fd408a424a92846b602
+      internalID: 55258202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_191
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 81
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102ee766bae8ffd42879accb93a7d325
+      internalID: 907823429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_192
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 81
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138d0f08eda69204abb6b039458e10ea
+      internalID: 1687568397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_193
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 70
+        width: 298
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1619e2a245b028246ad3d313a67f2a88
+      internalID: -579575795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_194
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 59
+        width: 62
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698b48f401fdbbd4ea6b480787c88cc9
+      internalID: -265159488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_195
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 59
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b10eae0a0e98644c8708c4c74c8eb53
+      internalID: 2049623119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_196
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 59
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72343bfeab88f5647aa5e9019bf501f0
+      internalID: 355808603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_197
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 56
+        width: 63
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b12a3a623c6f6149aaa6d50465620bb
+      internalID: -1196753233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_198
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 40
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c961b17b11b03774d86303ceb881ae27
+      internalID: -145665457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_199
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 48
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e8005154d6be6499a8f8c201229bce
+      internalID: 296114024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_200
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 40
+        width: 115
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6982fe47399267f488d4045c66906d82
+      internalID: -450972469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_201
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 40
+        width: 108
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821d45b710000bc4f86ce8ee34f32572
+      internalID: 1401462897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_202
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 35
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab460cf20b71e0c47ba6c8924ad44cb7
+      internalID: 1802773421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_203
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 2045
+        width: 155
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596a7c852b3ae344dbc3c466348ee7d9
+      internalID: -1575181455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_204
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 18
+        width: 324
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444c727b342b49b409d0e6f4881effdf
+      internalID: -885807849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_205
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 26
+        width: 214
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1441399331b553d42ab60c885671fedf
+      internalID: -48397583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_206
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 46
+        width: 264
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd38bb824db0c94dad1e2eeab63e298
+      internalID: -1068516360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_207
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 244
+        width: 156
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfe07a4137b47748b059eacabbfd4fd
+      internalID: 1719820133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_208
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 1852
+        width: 141
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a35b05fcb2ce64282bbf7b5b835a88
+      internalID: -1142815279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_209
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 235
+        width: 135
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f920c3d892e4b8b4489e4d6dec122a82
+      internalID: -723787344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_210
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 251
+        width: 132
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479e88a35d03d65498c6554ac2db4573
+      internalID: 1805290440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_211
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 248
+        width: 86
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d52fc520e85fb4fb13c8d60a271b45
+      internalID: -2101088688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_212
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 1469
+        width: 133
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d87bf951a58f404c893ea478d3cb3da
+      internalID: -1096343848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board Sprites_213
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 38
+        width: 295
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34dea3bf6e48cf4e8d88af94976119c
+      internalID: -457451602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Board Sprites_0: 1344913121
+      Board Sprites_1: 811824416
+      Board Sprites_10: 1968847051
+      Board Sprites_100: -1702051445
+      Board Sprites_101: -1152259975
+      Board Sprites_102: 1880193044
+      Board Sprites_103: 788384982
+      Board Sprites_104: -1047560145
+      Board Sprites_105: -858558817
+      Board Sprites_106: -1106944984
+      Board Sprites_107: -1145232273
+      Board Sprites_108: 1254945328
+      Board Sprites_109: 1499012039
+      Board Sprites_11: -91164592
+      Board Sprites_110: -1782024270
+      Board Sprites_111: -1337421899
+      Board Sprites_112: -1843800035
+      Board Sprites_113: -1412333902
+      Board Sprites_114: -649540755
+      Board Sprites_115: -1158133759
+      Board Sprites_116: 885993744
+      Board Sprites_117: -372668514
+      Board Sprites_118: -878171125
+      Board Sprites_119: -1030211425
+      Board Sprites_12: 2093888280
+      Board Sprites_120: 1550779441
+      Board Sprites_121: -955209367
+      Board Sprites_122: 2066358353
+      Board Sprites_123: -498721636
+      Board Sprites_124: 2037208012
+      Board Sprites_125: -208025241
+      Board Sprites_126: -506350527
+      Board Sprites_127: -1358321068
+      Board Sprites_128: -161882292
+      Board Sprites_129: 939040294
+      Board Sprites_13: 1448835393
+      Board Sprites_130: 305632127
+      Board Sprites_131: 615812072
+      Board Sprites_132: -7787296
+      Board Sprites_133: -352549576
+      Board Sprites_134: 905687014
+      Board Sprites_135: 1556321328
+      Board Sprites_136: 70849949
+      Board Sprites_137: -723535119
+      Board Sprites_138: -1671999844
+      Board Sprites_139: -1328263223
+      Board Sprites_14: 1066085316
+      Board Sprites_140: -1170330320
+      Board Sprites_141: -741476906
+      Board Sprites_142: -1543812360
+      Board Sprites_143: 1809143997
+      Board Sprites_144: -1738074371
+      Board Sprites_145: 1745828308
+      Board Sprites_146: -1933115309
+      Board Sprites_147: 406113220
+      Board Sprites_148: 766686701
+      Board Sprites_149: -1011756633
+      Board Sprites_15: 2112068126
+      Board Sprites_150: 1497298852
+      Board Sprites_151: 1939298693
+      Board Sprites_152: 1993559785
+      Board Sprites_153: 1665965252
+      Board Sprites_154: -1353560256
+      Board Sprites_155: -1736795750
+      Board Sprites_156: -1326549715
+      Board Sprites_157: -150086007
+      Board Sprites_158: -138733262
+      Board Sprites_159: -835754282
+      Board Sprites_16: 2058207883
+      Board Sprites_160: 893279473
+      Board Sprites_161: -106264084
+      Board Sprites_162: 143268695
+      Board Sprites_163: -1661860514
+      Board Sprites_164: 1170890506
+      Board Sprites_165: -1101723326
+      Board Sprites_166: -411645239
+      Board Sprites_167: 1141929986
+      Board Sprites_168: -1430316170
+      Board Sprites_169: -1339040204
+      Board Sprites_17: 1705464537
+      Board Sprites_170: 1616102653
+      Board Sprites_171: -1578394702
+      Board Sprites_172: 1380670668
+      Board Sprites_173: -1247592737
+      Board Sprites_174: 717157514
+      Board Sprites_175: 1969959111
+      Board Sprites_176: 15884729
+      Board Sprites_177: 1851209415
+      Board Sprites_178: -435351396
+      Board Sprites_179: -1651468951
+      Board Sprites_18: 1696039871
+      Board Sprites_180: 543533673
+      Board Sprites_181: 730374821
+      Board Sprites_182: 1055197351
+      Board Sprites_183: -572004408
+      Board Sprites_184: 599566948
+      Board Sprites_185: 668396715
+      Board Sprites_186: -157505091
+      Board Sprites_187: 1889835325
+      Board Sprites_188: -1338036746
+      Board Sprites_189: -322472304
+      Board Sprites_19: -1383120347
+      Board Sprites_190: 55258202
+      Board Sprites_191: 907823429
+      Board Sprites_192: 1687568397
+      Board Sprites_193: -579575795
+      Board Sprites_194: -265159488
+      Board Sprites_195: 2049623119
+      Board Sprites_196: 355808603
+      Board Sprites_197: -1196753233
+      Board Sprites_198: -145665457
+      Board Sprites_199: 296114024
+      Board Sprites_2: -431111814
+      Board Sprites_20: -1730527420
+      Board Sprites_200: -450972469
+      Board Sprites_201: 1401462897
+      Board Sprites_202: 1802773421
+      Board Sprites_203: -1575181455
+      Board Sprites_204: -885807849
+      Board Sprites_205: -48397583
+      Board Sprites_206: -1068516360
+      Board Sprites_207: 1719820133
+      Board Sprites_208: -1142815279
+      Board Sprites_209: -723787344
+      Board Sprites_21: 106746576
+      Board Sprites_210: 1805290440
+      Board Sprites_211: -2101088688
+      Board Sprites_212: -1003218323
+      Board Sprites_213: -457451602
+      Board Sprites_22: 968814181
+      Board Sprites_23: -376312458
+      Board Sprites_24: -1559753585
+      Board Sprites_25: 333976686
+      Board Sprites_26: 1282181020
+      Board Sprites_27: 39314786
+      Board Sprites_28: -383101390
+      Board Sprites_29: 1093310160
+      Board Sprites_3: -1265189341
+      Board Sprites_30: -1757921378
+      Board Sprites_31: 224896750
+      Board Sprites_32: 1921114954
+      Board Sprites_33: -601533884
+      Board Sprites_34: 1292021881
+      Board Sprites_35: -2120539792
+      Board Sprites_36: -1534318828
+      Board Sprites_37: 1870980647
+      Board Sprites_38: 1989224543
+      Board Sprites_39: 1301761020
+      Board Sprites_4: -1862405903
+      Board Sprites_40: 660596630
+      Board Sprites_41: -90888619
+      Board Sprites_42: -1105882962
+      Board Sprites_43: 1969879564
+      Board Sprites_44: -1517609489
+      Board Sprites_45: 745847790
+      Board Sprites_46: 1480590609
+      Board Sprites_47: 1107285538
+      Board Sprites_48: -36576629
+      Board Sprites_49: -251636532
+      Board Sprites_5: 1831556934
+      Board Sprites_50: -1755431025
+      Board Sprites_51: 230050012
+      Board Sprites_52: 593065581
+      Board Sprites_53: 1910777614
+      Board Sprites_54: -1134270798
+      Board Sprites_55: -308767651
+      Board Sprites_56: -1023263724
+      Board Sprites_57: 237150327
+      Board Sprites_58: 1730906094
+      Board Sprites_59: 576900134
+      Board Sprites_6: -907641131
+      Board Sprites_60: 223079276
+      Board Sprites_61: -1597183661
+      Board Sprites_62: 1536416062
+      Board Sprites_63: 1552603891
+      Board Sprites_64: 793677011
+      Board Sprites_65: 1935932245
+      Board Sprites_66: -453996297
+      Board Sprites_67: 1983305665
+      Board Sprites_68: -1274468941
+      Board Sprites_69: -180915793
+      Board Sprites_7: 323721428
+      Board Sprites_70: 1679930107
+      Board Sprites_71: -55889991
+      Board Sprites_72: -2085128680
+      Board Sprites_73: -1522846646
+      Board Sprites_74: 835918411
+      Board Sprites_75: 1973413388
+      Board Sprites_76: -1621123442
+      Board Sprites_77: 1169688573
+      Board Sprites_78: -1747810919
+      Board Sprites_79: 402261915
+      Board Sprites_8: 126285969
+      Board Sprites_80: -1139815106
+      Board Sprites_81: -816264917
+      Board Sprites_82: 1066366116
+      Board Sprites_83: 1339318494
+      Board Sprites_84: 717562405
+      Board Sprites_85: -866077903
+      Board Sprites_86: -700558717
+      Board Sprites_87: -1343282899
+      Board Sprites_88: 1495347483
+      Board Sprites_89: -1412221830
+      Board Sprites_9: 1578018212
+      Board Sprites_90: 892186927
+      Board Sprites_91: 2029738093
+      Board Sprites_92: 1628287034
+      Board Sprites_93: -534291264
+      Board Sprites_94: 1257943210
+      Board Sprites_95: 623667080
+      Board Sprites_96: 774457277
+      Board Sprites_97: 1906854531
+      Board Sprites_98: -841725379
+      Board Sprites_99: -22473516
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

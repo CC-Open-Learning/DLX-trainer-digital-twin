@@ -1,0 +1,263 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6258256164967685953
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 306771874019321419, guid: 81768f88590effb47ad74765818909ed,
+        type: 3}
+      propertyPath: MouseExit.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 306771874019321419, guid: 81768f88590effb47ad74765818909ed,
+        type: 3}
+      propertyPath: MouseEnter.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 306771874019321419, guid: 81768f88590effb47ad74765818909ed,
+        type: 3}
+      propertyPath: MouseExit.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 306771874019321419, guid: 81768f88590effb47ad74765818909ed,
+        type: 3}
+      propertyPath: MouseEnter.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 306771874019321419, guid: 81768f88590effb47ad74765818909ed,
+        type: 3}
+      propertyPath: MouseExit.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 5297433215405951516}
+    - target: {fileID: 306771874019321419, guid: 81768f88590effb47ad74765818909ed,
+        type: 3}
+      propertyPath: MouseEnter.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 5297433215405951516}
+    - target: {fileID: 306771874019321419, guid: 81768f88590effb47ad74765818909ed,
+        type: 3}
+      propertyPath: MouseExit.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 306771874019321419, guid: 81768f88590effb47ad74765818909ed,
+        type: 3}
+      propertyPath: MouseEnter.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 306771874019321419, guid: 81768f88590effb47ad74765818909ed,
+        type: 3}
+      propertyPath: MouseExit.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: OnCableColliderHoveredOff
+      objectReference: {fileID: 0}
+    - target: {fileID: 306771874019321419, guid: 81768f88590effb47ad74765818909ed,
+        type: 3}
+      propertyPath: MouseEnter.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: OnCableColliderHoveredOn
+      objectReference: {fileID: 0}
+    - target: {fileID: 306771874019321419, guid: 81768f88590effb47ad74765818909ed,
+        type: 3}
+      propertyPath: MouseExit.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: VARLab.MPCircuits.CableConnector, VARLab.MPCircuits
+      objectReference: {fileID: 0}
+    - target: {fileID: 306771874019321419, guid: 81768f88590effb47ad74765818909ed,
+        type: 3}
+      propertyPath: MouseEnter.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: VARLab.MPCircuits.CableConnector, VARLab.MPCircuits
+      objectReference: {fileID: 0}
+    - target: {fileID: 306771874019321419, guid: 81768f88590effb47ad74765818909ed,
+        type: 3}
+      propertyPath: MouseExit.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 306771874019321419, guid: 81768f88590effb47ad74765818909ed,
+        type: 3}
+      propertyPath: MouseEnter.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 619679802629208393, guid: 81768f88590effb47ad74765818909ed,
+        type: 3}
+      propertyPath: outlineTargets.Array.data[2].IsVisible
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 619679802629208393, guid: 81768f88590effb47ad74765818909ed,
+        type: 3}
+      propertyPath: outlineTargets.Array.data[3].IsVisible
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 619679802629208393, guid: 81768f88590effb47ad74765818909ed,
+        type: 3}
+      propertyPath: outlineTargets.Array.data[4].IsVisible
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 619679802629208393, guid: 81768f88590effb47ad74765818909ed,
+        type: 3}
+      propertyPath: outlineTargets.Array.data[5].IsVisible
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1513805200279272131, guid: 81768f88590effb47ad74765818909ed,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1513805200279272131, guid: 81768f88590effb47ad74765818909ed,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1513805200279272131, guid: 81768f88590effb47ad74765818909ed,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1513805200279272131, guid: 81768f88590effb47ad74765818909ed,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1513805200279272131, guid: 81768f88590effb47ad74765818909ed,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1513805200279272131, guid: 81768f88590effb47ad74765818909ed,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1513805200279272131, guid: 81768f88590effb47ad74765818909ed,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1513805200279272131, guid: 81768f88590effb47ad74765818909ed,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1513805200279272131, guid: 81768f88590effb47ad74765818909ed,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1513805200279272131, guid: 81768f88590effb47ad74765818909ed,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1513805200279272131, guid: 81768f88590effb47ad74765818909ed,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2260113918161360221, guid: 81768f88590effb47ad74765818909ed,
+        type: 3}
+      propertyPath: Color
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2260113918161360221, guid: 81768f88590effb47ad74765818909ed,
+        type: 3}
+      propertyPath: cableMaterial
+      value: 
+      objectReference: {fileID: 2100000, guid: 2dfdd88a3007a3442a52be265ead31ca, type: 2}
+    - target: {fileID: 2609001235234207274, guid: 81768f88590effb47ad74765818909ed,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387429057045026549, guid: 81768f88590effb47ad74765818909ed,
+        type: 3}
+      propertyPath: MouseExit.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387429057045026549, guid: 81768f88590effb47ad74765818909ed,
+        type: 3}
+      propertyPath: MouseEnter.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387429057045026549, guid: 81768f88590effb47ad74765818909ed,
+        type: 3}
+      propertyPath: MouseExit.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387429057045026549, guid: 81768f88590effb47ad74765818909ed,
+        type: 3}
+      propertyPath: MouseEnter.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387429057045026549, guid: 81768f88590effb47ad74765818909ed,
+        type: 3}
+      propertyPath: MouseExit.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 5297433215405951516}
+    - target: {fileID: 5387429057045026549, guid: 81768f88590effb47ad74765818909ed,
+        type: 3}
+      propertyPath: MouseEnter.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 5297433215405951516}
+    - target: {fileID: 5387429057045026549, guid: 81768f88590effb47ad74765818909ed,
+        type: 3}
+      propertyPath: MouseExit.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387429057045026549, guid: 81768f88590effb47ad74765818909ed,
+        type: 3}
+      propertyPath: MouseEnter.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387429057045026549, guid: 81768f88590effb47ad74765818909ed,
+        type: 3}
+      propertyPath: MouseExit.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: OnCableColliderHoveredOff
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387429057045026549, guid: 81768f88590effb47ad74765818909ed,
+        type: 3}
+      propertyPath: MouseEnter.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: OnCableColliderHoveredOn
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387429057045026549, guid: 81768f88590effb47ad74765818909ed,
+        type: 3}
+      propertyPath: MouseExit.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: VARLab.MPCircuits.CableConnector, VARLab.MPCircuits
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387429057045026549, guid: 81768f88590effb47ad74765818909ed,
+        type: 3}
+      propertyPath: MouseEnter.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: VARLab.MPCircuits.CableConnector, VARLab.MPCircuits
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387429057045026549, guid: 81768f88590effb47ad74765818909ed,
+        type: 3}
+      propertyPath: MouseExit.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387429057045026549, guid: 81768f88590effb47ad74765818909ed,
+        type: 3}
+      propertyPath: MouseEnter.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 7478428526098783116, guid: 81768f88590effb47ad74765818909ed,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8585391270394136334, guid: 81768f88590effb47ad74765818909ed,
+        type: 3}
+      propertyPath: m_Name
+      value: Black Cable
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 81768f88590effb47ad74765818909ed, type: 3}
+--- !u!114 &5297433215405951516 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 2260113918161360221, guid: 81768f88590effb47ad74765818909ed,
+    type: 3}
+  m_PrefabInstance: {fileID: 6258256164967685953}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f29d85cb2373cf4ca0d98386c8481b6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

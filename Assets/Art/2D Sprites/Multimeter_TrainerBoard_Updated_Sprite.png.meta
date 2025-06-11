@@ -1,0 +1,2235 @@
+fileFormatVersion: 2
+guid: fb5f4c3615d73764caafa2f3640df07f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 914
+        width: 104
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3cb7e3b82bdcf9489d5dbcfc5dec0df
+      internalID: -1310159744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 665
+        width: 289
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aff2f401caa0c342984719d63c8b098
+      internalID: 971689233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 611
+        width: 59
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba53a9b5506058c47b4184ab236e6229
+      internalID: -2002974173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 594
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28d0626942bb9645aee8672f9a29f77
+      internalID: -416305571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 593
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccd63c672ad8b04dadebe4fbe16b8e5
+      internalID: -455185667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 593
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a4322a433f470448950d14273965ef
+      internalID: -662259650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 593
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59431cbfd27a9a843bdc05cc32efbf87
+      internalID: -1179807216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 593
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b4a67b763270b43868f15f42029cea
+      internalID: -642105175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 593
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d22edfcd5528c24486b8e5326038d14
+      internalID: 1485793441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 593
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2595036f157dc040a0a331fa8eae3c6
+      internalID: -1617179983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 593
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4adc5eb3ca048d241ba0388ef3e1133a
+      internalID: 602563242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 579
+        width: 59
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79948607e177db944a9f9f37fab896fd
+      internalID: -508369474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 477
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461bd52d640a284409e3a632b6541866
+      internalID: 890122265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 487
+        width: 71
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bada13475a02e004d9f478f772d7cb0a
+      internalID: 97641652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 477
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8846d2e0c56f7747bc80e757de7f16c
+      internalID: 570158707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 482
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec651efae76242e469ae882ec19fcf9b
+      internalID: -1033662470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 471
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb8086d4775507498211aac64b0c0b0
+      internalID: -814830360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 478
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa268df4dd10aa4fa17bfc26be3c94b
+      internalID: 625066147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 479
+        width: 57
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd68e587d515a74a8b0bd12a85391d0
+      internalID: -1616183940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 466
+        width: 64
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce80dd9fdd0a5704a86ff4714a690f17
+      internalID: -287851937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 474
+        width: 43
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9d4ddedcd19944e82f65d473b0aff6
+      internalID: 218774399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 426
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa7398ad6c4163458faf7d7606df400
+      internalID: 484211388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_22
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 425
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df5c839735bd9e46be6e719ae35bbdf
+      internalID: 599106926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_23
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 426
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bdd82eedea42024c8648954ab3a907d
+      internalID: 1803754275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_24
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 426
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c46d8685e746a149816fad8723242cf
+      internalID: 406105737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_25
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 461
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b1bc55052a58c4ea4cde5e7b5594cf
+      internalID: 1743477510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_26
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 461
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27658cb487ec4945a7994d81f9ca8e0
+      internalID: 1451433394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_27
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 461
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cdf2f63ce3e2748b8186c6cfbf612c
+      internalID: 1995305365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_28
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 452
+        width: 71
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa01e550c2f947a4aa158fb11d5a6210
+      internalID: 921176900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_29
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 415
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fafe876dadca540b414ae25acea7b2
+      internalID: 688951833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_30
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 415
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58158308aafbd6541a6c7e62e59632ac
+      internalID: 1660408872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_31
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 462
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ce5e79b7bd89e4b912c4f0fa51edfc
+      internalID: -850644850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_32
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 462
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c026b85ebb50248b1528d4dba19a6e
+      internalID: 269588550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_33
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 462
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f16bfcf496d9244b24dce97b76570c
+      internalID: 706278285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_34
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 398
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab200faf3e581da43addda07363c3911
+      internalID: -1494681083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_35
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 416
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381010ddbdab855438f9f002f2497fea
+      internalID: -1289971284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_36
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 416
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287492824ce9d934db4f3e46fa588550
+      internalID: 346983440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_37
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 403
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515253e1d3ccd4f42af0e9e3f69c11bc
+      internalID: 1708700649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_38
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 384
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699e5e33c4097204eaaa5d9b4591f9cf
+      internalID: -1103314080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_39
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 410
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd859c61c323db409dc78a8a3353347
+      internalID: -1338259100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_40
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 356
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e86c7ded3b6d714f98d339eef874317
+      internalID: 790165322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_41
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 377
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f50b7337c7da844b895b139631f81c1
+      internalID: -1425081972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_42
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 354
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98504b1a3cb9f7f4a833baecb797693d
+      internalID: 1058629471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_43
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 390
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4c7e60b6ce44847b041ca55832ed98
+      internalID: -1969679135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_44
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 389
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5039e0c9fc84f7244accd77b3a7dde79
+      internalID: -1807058615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_45
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 356
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d228952cd4c6849b75cf579e3e8b14
+      internalID: -1982229494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_46
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 354
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b7d13046a27da40b946f7b1bdf33da
+      internalID: 1178320282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_47
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 271
+        width: 12
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fc29b8bb3e2944594257b589f085a1
+      internalID: 282109094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_48
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 314
+        width: 54
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09175311aa056de40b01b64e7c306f7b
+      internalID: -1015446051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_49
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 270
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac322b45070ccab4985b6fca7f6f2b3d
+      internalID: 958016080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_50
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 271
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6641512a0560c4c4a8889fb4868f0bce
+      internalID: -2009925484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_51
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 271
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64bd7e1fe384b34180dea944ed0e3c1
+      internalID: 2099791623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_52
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 289
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d984f4b324fa24f9501185f03fe773
+      internalID: -629843369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_53
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 287
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aadcef2b40e31141b09a4f8744349da
+      internalID: 541269885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_54
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 282
+        width: 9
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8aeed321a720ed43856c4e9c31b218f
+      internalID: 1836186184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_55
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 279
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eba7232cfbe7514e84cd883b1cf2777
+      internalID: -1415296689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_56
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 286
+        width: 56
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59aec8b7b8de38f418cbd3ebf8894d32
+      internalID: 867466808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_57
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 180
+        width: 88
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee82f271db7d5a34d897c2765ad392e4
+      internalID: 1344951455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_58
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 232
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4695af75bff2c47bc684dce142b1ce
+      internalID: 706068610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 268
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d65b99a5c4b64b42968ad9272cfdc98
+      internalID: 1703924570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_60
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 264
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0636869d887d445948cd3536de7f7c
+      internalID: -1812864234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_61
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 250
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7a01da8f2653041932596aa1b2b0c1
+      internalID: -1034427822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_62
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 248
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046ca21ffc0064a408b2ba2fed179c66
+      internalID: 346101049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_63
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 204
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf1e3bc5dae2bf49b61fa7b31b2be86
+      internalID: -589354929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_64
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 178
+        width: 110
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bace273c6da564aa584ea94907aceb
+      internalID: 1645694273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_65
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 140
+        width: 82
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7290404918271644b2a2075372367fe
+      internalID: 1821566253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_66
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 233
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0108ed636b6d32445931b1516d4895dd
+      internalID: 582285353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_67
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 188
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d434aee2b5b98fc4b8c6060c3c52d785
+      internalID: -1402528178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_68
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 173
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fba8fef9a8d1e4297680d99b83bc3f
+      internalID: 707110516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_69
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 203
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130f8f98310d813449d68f69b3e4f4a3
+      internalID: 317979809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_70
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 169
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831b74ffebfaab241b89053dc86b158f
+      internalID: 1608611359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_71
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 161
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309479f65a33fee4e88c700baff99d92
+      internalID: 37540222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_72
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 213
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cab8a937d631734ab4385c5ce211856
+      internalID: 357770404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_73
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 156
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5924ee1de27dae24da63bc943d6dd9d2
+      internalID: 733099349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_74
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 161
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99d2846850c67949982fd73a5e1da60
+      internalID: 1991048196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_75
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 213
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b39e0ac5bfd45469ee38b2a4adcd94
+      internalID: 798931653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_76
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 173
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b595500ce3cabbc4592c32829a269955
+      internalID: 1125195505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_77
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 203
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1629cbd49588484cb02b60ffce95c83
+      internalID: -824996581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_78
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 188
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d836d65b4523b4cbab89b17376db78
+      internalID: -1968919400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_79
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 160
+        width: 17
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3884c4fceec1ae4db4978d0a927a347
+      internalID: -1480068887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_80
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 185
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67d301047356b846b1b604ecc3b3522
+      internalID: -1523382545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_81
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 185
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d5c6af62c69964889e4df65a36568c
+      internalID: -987077821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_82
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 153
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ce9af482767d841a4d1f94fdee4fab
+      internalID: 1157335099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_83
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 147
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6694234f9f9f5c94ea211aa7e1d9750b
+      internalID: 1647286175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_84
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 564
+        width: 451
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01613a8787630c24993a92c79f123faa
+      internalID: -1127926620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_85
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 168
+        width: 236
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04659e19e22fb434dbf0e3b830575086
+      internalID: -634597972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_86
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 410
+        width: 187
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9025d7851ca8742898e25f21403747
+      internalID: -228876064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_87
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 387
+        width: 78
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c546849ffe804449b505c72067d90d
+      internalID: 479026352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_88
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 404
+        width: 87
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0cc9138946991b48a529fbecea1a4ed
+      internalID: 1060898761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_89
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 385
+        width: 73
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09514704c8b3cc4c9ab2ff0f4200a06
+      internalID: 1598815451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_90
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 394
+        width: 105
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7594588e1f03886469a9806203e7063a
+      internalID: 619939524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_91
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 389
+        width: 85
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e77820fe59ca7242957227422ab280f
+      internalID: -1724616954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_92
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 188
+        width: 161
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55de426942bd48b44a302a543fc68ae3
+      internalID: 146262050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_93
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 254
+        width: 149
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632fdfb10f5aa3a40be61aac3100645e
+      internalID: 1784582813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_94
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 343
+        width: 155
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2e8ed530ff7d44ab49389ab1582762
+      internalID: -1951978083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multimeter_TrainerBoard_Updated_Sprite_95
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 149
+        width: 133
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e39623ea5de75a4692d45ce702d0cef
+      internalID: -2049939509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 732e5702f58e3364fb1e8b8450779661
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Multimeter_TrainerBoard_Updated_Sprite_0: -1310159744
+      Multimeter_TrainerBoard_Updated_Sprite_1: 971689233
+      Multimeter_TrainerBoard_Updated_Sprite_10: 602563242
+      Multimeter_TrainerBoard_Updated_Sprite_11: -508369474
+      Multimeter_TrainerBoard_Updated_Sprite_12: 890122265
+      Multimeter_TrainerBoard_Updated_Sprite_13: 97641652
+      Multimeter_TrainerBoard_Updated_Sprite_14: 570158707
+      Multimeter_TrainerBoard_Updated_Sprite_15: -1033662470
+      Multimeter_TrainerBoard_Updated_Sprite_16: -814830360
+      Multimeter_TrainerBoard_Updated_Sprite_17: 625066147
+      Multimeter_TrainerBoard_Updated_Sprite_18: -1616183940
+      Multimeter_TrainerBoard_Updated_Sprite_19: -287851937
+      Multimeter_TrainerBoard_Updated_Sprite_2: -2002974173
+      Multimeter_TrainerBoard_Updated_Sprite_20: 218774399
+      Multimeter_TrainerBoard_Updated_Sprite_21: 484211388
+      Multimeter_TrainerBoard_Updated_Sprite_22: 599106926
+      Multimeter_TrainerBoard_Updated_Sprite_23: 1803754275
+      Multimeter_TrainerBoard_Updated_Sprite_24: 406105737
+      Multimeter_TrainerBoard_Updated_Sprite_25: 1743477510
+      Multimeter_TrainerBoard_Updated_Sprite_26: 1451433394
+      Multimeter_TrainerBoard_Updated_Sprite_27: 1995305365
+      Multimeter_TrainerBoard_Updated_Sprite_28: 921176900
+      Multimeter_TrainerBoard_Updated_Sprite_29: 688951833
+      Multimeter_TrainerBoard_Updated_Sprite_3: -416305571
+      Multimeter_TrainerBoard_Updated_Sprite_30: 1660408872
+      Multimeter_TrainerBoard_Updated_Sprite_31: -850644850
+      Multimeter_TrainerBoard_Updated_Sprite_32: 269588550
+      Multimeter_TrainerBoard_Updated_Sprite_33: 706278285
+      Multimeter_TrainerBoard_Updated_Sprite_34: -1494681083
+      Multimeter_TrainerBoard_Updated_Sprite_35: -1289971284
+      Multimeter_TrainerBoard_Updated_Sprite_36: 346983440
+      Multimeter_TrainerBoard_Updated_Sprite_37: 1708700649
+      Multimeter_TrainerBoard_Updated_Sprite_38: -1103314080
+      Multimeter_TrainerBoard_Updated_Sprite_39: -1338259100
+      Multimeter_TrainerBoard_Updated_Sprite_4: -455185667
+      Multimeter_TrainerBoard_Updated_Sprite_40: 790165322
+      Multimeter_TrainerBoard_Updated_Sprite_41: -1425081972
+      Multimeter_TrainerBoard_Updated_Sprite_42: 1058629471
+      Multimeter_TrainerBoard_Updated_Sprite_43: -1969679135
+      Multimeter_TrainerBoard_Updated_Sprite_44: -1807058615
+      Multimeter_TrainerBoard_Updated_Sprite_45: -1982229494
+      Multimeter_TrainerBoard_Updated_Sprite_46: 1178320282
+      Multimeter_TrainerBoard_Updated_Sprite_47: 282109094
+      Multimeter_TrainerBoard_Updated_Sprite_48: -1015446051
+      Multimeter_TrainerBoard_Updated_Sprite_49: 958016080
+      Multimeter_TrainerBoard_Updated_Sprite_5: -662259650
+      Multimeter_TrainerBoard_Updated_Sprite_50: -2009925484
+      Multimeter_TrainerBoard_Updated_Sprite_51: 2099791623
+      Multimeter_TrainerBoard_Updated_Sprite_52: -629843369
+      Multimeter_TrainerBoard_Updated_Sprite_53: 541269885
+      Multimeter_TrainerBoard_Updated_Sprite_54: 1836186184
+      Multimeter_TrainerBoard_Updated_Sprite_55: -1415296689
+      Multimeter_TrainerBoard_Updated_Sprite_56: 867466808
+      Multimeter_TrainerBoard_Updated_Sprite_57: 1344951455
+      Multimeter_TrainerBoard_Updated_Sprite_58: 706068610
+      Multimeter_TrainerBoard_Updated_Sprite_59: 1703924570
+      Multimeter_TrainerBoard_Updated_Sprite_6: -1179807216
+      Multimeter_TrainerBoard_Updated_Sprite_60: -1812864234
+      Multimeter_TrainerBoard_Updated_Sprite_61: -1034427822
+      Multimeter_TrainerBoard_Updated_Sprite_62: 346101049
+      Multimeter_TrainerBoard_Updated_Sprite_63: -589354929
+      Multimeter_TrainerBoard_Updated_Sprite_64: 1645694273
+      Multimeter_TrainerBoard_Updated_Sprite_65: 1821566253
+      Multimeter_TrainerBoard_Updated_Sprite_66: 582285353
+      Multimeter_TrainerBoard_Updated_Sprite_67: -1402528178
+      Multimeter_TrainerBoard_Updated_Sprite_68: 707110516
+      Multimeter_TrainerBoard_Updated_Sprite_69: 317979809
+      Multimeter_TrainerBoard_Updated_Sprite_7: -642105175
+      Multimeter_TrainerBoard_Updated_Sprite_70: 1608611359
+      Multimeter_TrainerBoard_Updated_Sprite_71: 37540222
+      Multimeter_TrainerBoard_Updated_Sprite_72: 357770404
+      Multimeter_TrainerBoard_Updated_Sprite_73: 733099349
+      Multimeter_TrainerBoard_Updated_Sprite_74: 1991048196
+      Multimeter_TrainerBoard_Updated_Sprite_75: 798931653
+      Multimeter_TrainerBoard_Updated_Sprite_76: 1125195505
+      Multimeter_TrainerBoard_Updated_Sprite_77: -824996581
+      Multimeter_TrainerBoard_Updated_Sprite_78: -1968919400
+      Multimeter_TrainerBoard_Updated_Sprite_79: -1480068887
+      Multimeter_TrainerBoard_Updated_Sprite_8: 1485793441
+      Multimeter_TrainerBoard_Updated_Sprite_80: -1523382545
+      Multimeter_TrainerBoard_Updated_Sprite_81: -987077821
+      Multimeter_TrainerBoard_Updated_Sprite_82: 1157335099
+      Multimeter_TrainerBoard_Updated_Sprite_83: 1647286175
+      Multimeter_TrainerBoard_Updated_Sprite_84: -1127926620
+      Multimeter_TrainerBoard_Updated_Sprite_85: -634597972
+      Multimeter_TrainerBoard_Updated_Sprite_86: -228876064
+      Multimeter_TrainerBoard_Updated_Sprite_87: 479026352
+      Multimeter_TrainerBoard_Updated_Sprite_88: 1060898761
+      Multimeter_TrainerBoard_Updated_Sprite_89: 1598815451
+      Multimeter_TrainerBoard_Updated_Sprite_9: -1617179983
+      Multimeter_TrainerBoard_Updated_Sprite_90: 619939524
+      Multimeter_TrainerBoard_Updated_Sprite_91: -1724616954
+      Multimeter_TrainerBoard_Updated_Sprite_92: 146262050
+      Multimeter_TrainerBoard_Updated_Sprite_93: 1784582813
+      Multimeter_TrainerBoard_Updated_Sprite_94: -1951978083
+      Multimeter_TrainerBoard_Updated_Sprite_95: -2049939509
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
